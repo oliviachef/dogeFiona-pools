@@ -1,6 +1,5 @@
-// testnet pool list 1: (568)
 pools[
-  pool1{
+  "pool1"{
     "token name":"",
     "token ca":"",
     "reward token":""
